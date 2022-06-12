@@ -1,0 +1,32 @@
+{
+  "name": "note-collector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShogoofaA/Note-Collector.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShogoofaA/Note-Collector/issues"
+  },
+  "homepage": "https://github.com/ShogoofaA/Note-Collector#readme",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
