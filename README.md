@@ -1,8 +1,7 @@
 # Note-Collector
 
 ## Description
-This is a ReadMe generator that can create future project ReadMe's in a much more efficient way. Simply clone the repository for yourself then use node.js to a series of prompts will ask you about your project info that will be inputed into your README file.
-
+The Note Collector aims to make the consumers life easier by retaining tasks and information that they might later forget. Why run a risk of forgetting important daily responsibilities when you can whip out the Note Collector! Simply open the app and hit the Get Started button to retrieve the notes, after typing in your tasks hit the key button on the top right to save!
 ---
 
 ## Table of Contents
@@ -10,9 +9,6 @@ This is a ReadMe generator that can create future project ReadMe's in a much mor
 - [Preview](#Preview)
 
 - [Links](#links)
-
--[]
-
 
 
 ---
@@ -28,5 +24,5 @@ This is a ReadMe generator that can create future project ReadMe's in a much mor
 
 ## Links
 
-Here is the link through Heroku: 
+Here is the link through Heroku: https://notecollector.herokuapp.com/
 ---
