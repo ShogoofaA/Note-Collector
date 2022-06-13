@@ -4,6 +4,11 @@
       "title": "Test Title",
       "text": "Test text",
       "id": "0"
+    },
+    {
+      "title": "Plans for today",
+      "text": "-Groceries\n-Exercise\n-Do homework\n-Clean House",
+      "id": "1"
     }
   ]
 }
